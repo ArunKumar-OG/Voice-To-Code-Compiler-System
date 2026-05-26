@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 fastapi==0.111.0
-=======
-fastapi==0.111.0
->>>>>>> origin/voice_lex
 uvicorn==0.29.0

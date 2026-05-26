@@ -52,8 +52,4 @@ const styles = {
   pill:       { padding: "5px 14px", borderRadius: "20px", fontSize: "13px", background: "#2a2a4a", color: "#8899cc", border: "1px solid #3a3a5a" },
   pillActive: { background: "#15803D", color: "#fff", border: "1px solid #15803D" },
   main:       { maxWidth: "900px", margin: "32px auto", padding: "0 24px" },
-<<<<<<< HEAD
 };
-=======
-};
->>>>>>> origin/voice_lex
